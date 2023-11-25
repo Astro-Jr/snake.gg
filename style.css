@@ -7,6 +7,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.inf, .info{ 
+    position: absolute; 
+    top:15%;
+}
 body{
     display: flex;
     align-items: center;
