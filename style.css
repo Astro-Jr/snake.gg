@@ -11,7 +11,7 @@
     position: absolute; 
     top:5%;
 }
-.inf{ top:6%; }
+.inf{ top:8%; }
 body{
     display: flex;
     align-items: center;
