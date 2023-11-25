@@ -9,7 +9,7 @@
 
 .inf, .info{ 
     position: absolute; 
-    top:15%;
+    top:5%;
 }
 body{
     display: flex;
