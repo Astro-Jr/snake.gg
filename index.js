@@ -27,7 +27,7 @@ const updateFoodPosition = () => {
 
 const handleGameOver = () => {
     clearInterval(setIntervalId);
-    alert(`Game Over!  Your Currnet High-Score: ${highScore}. Press OK to replay...`);
+    alert(`Game Over!  Your Currnet High-Score: ${highScore}. Your Current Score: ${score}. Press OK to replay...`);
     location.reload();
 }
 
