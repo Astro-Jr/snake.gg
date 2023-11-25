@@ -1,6 +1,6 @@
 # Snace Game
 
-This is a Snake Game Which You Can Play <a href="astro-jr.github.io/SG">Online</a>
+This is a Snake Game Which You Can Play online.
 
 # BUGS
 
